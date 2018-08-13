@@ -3,7 +3,7 @@ Open source projects have proven themselves to be as good and often better than 
 
 Well I disagree. If anything, open source projects need good branding more than close sourced projects. Close sourced projects have million dollar ad campaigns and retailers presenting users with solutions all the time. And close sourced projects don't need to be well known because the only developers who need to know about it are the ones who work on. Open source however needs good branding, not just to stand out to users but also to be visible to developers!
 
-This is a hybrid repo, work in progress where I plan to keep information and production files for open source projects that are open or interested to me creating a branding package for them. If you're interested in having your project get some branding, please log an issue and we can talk. All this work will be for free of course, I'm not looking for clients through this. I just want to give back, and I'm not yet a good enough coder to do that so I might as well lend a hand to the stuff that I find easy and fun!
+This is a hybrid repo, work in progress where I plan to keep information and production files for open source projects that have expressed positive interest in my help. If you're interested in having your project get some branding, please log an issue. All this work will be for free of course, I'm not looking for clients through this. I just want to give back, and I'm not yet a good enough coder to do that so I might as well lend a hand to the stuff that I find easy and fun! [[For examples of my work click here]](https://jackalope.tech)
 
 ## How is a Branding Package different than a logo?
 
