@@ -1,9 +1,22 @@
 # What is the Open Source Branding Project?
-Open source projects have proven themselves to be as good and often better than close sourced code solutions. But they severely lack in the visual presentation. In open source, this aestic aesthetic is often held as a badge of virtue. Open source projects are too smart and important to deal with stupid cretinous garbage like pretty buttons and logos!
+Open source software has proven itself to be as good and often better than close sourced software. **BUT!** They severely lack in the visual presentation. In open source, this aestic aesthetic is often held as a badge of virtue. Open source projects are too smart and important to deal with stupid cretinous garbage like pretty buttons and logos!
 
-Well I disagree. If anything, open source projects need good branding more than close sourced projects. Close sourced projects have million dollar ad campaigns and retailers presenting users with solutions all the time. And close sourced projects don't need to be well known because the only developers who need to know about it are the ones who work on. Open source however needs good branding, not just to stand out to users but also to be visible to developers!
+**This isn't true** In fact, open source projects need good branding more than close sourced projects. 
+1. Close sourced products have million dollar ad campaigns and retailers presenting users with solutions all the time.
+2. Close sourced software used for development purposes need to only be known by the devs working for the company who owns the source while open source software needs a wide swathe of people contributing, using, and testing code.  
 
-This is a hybrid repo, work in progress where I plan to keep information and production files for open source projects that have expressed positive interest in my help. If you're interested in having your project get some branding, please log an issue. All this work will be for free of course, I'm not looking for clients through this. I just want to give back, and I'm not yet a good enough coder to do that so I might as well lend a hand to the stuff that I find easy and fun! [[For examples of my work click here]](https://jackalope.tech)
+## The Goals
+
+The goals if this project is to provide a place for open source projects to seek help from designers, and to model a solution towards design work which is more native to the open source methodology. This means:
+
+1. Treating design work like code in a repo
+2. Utilizing open source and transparent project management solutions like git source control, wiki documentation, and github issue tracking. 
+3. Standardarizing the design creation process in such a way that it can be forked or tweaked by other organizations to their own needs. 
+4. Allowing for a decentralized collaborative multi-designer fork and merge process. 
+
+This is a hybrid repo, work in progress where I plan to keep information and production files for open source projects that have expressed interest in getting help with visual design and branding. If you want help:
+[[please log an issue here]](https://github.com/jcklpe/Open-Source-Branding/issues/new?template=branding-request.md)  
+[[For examples of my work click here]](https://jackalope.tech)
 
 ## How is a Branding Package different than a logo?
 
