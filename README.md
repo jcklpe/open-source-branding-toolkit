@@ -33,6 +33,11 @@ A branding package is a more all encompassing concept than a logo. A logo can be
 Other possible things based on the context of the project can be icons, icon families, Design System Libraries or examples. 
 
 
+## Project Inspirations:
+
+* [[Mozilla Rebrand]](https://blog.mozilla.org/opendesign/arrival/)
+* [[Simple]](https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc)
+
 
 ## Projects To-Do:
 * [[Nautilus Terminal Extenstion]](https://github.com/flozz/nautilus-terminal)
