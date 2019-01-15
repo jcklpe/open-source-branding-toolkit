@@ -33,7 +33,7 @@ A logo is a specific instantiation of a part of the brand identity. A brand iden
 
 ## Q: What can I expect when I make a branding request?
 
-It means I (or anyone who wants to join this project with a history of design work behind them) will make a branding package for the open source project. This is meant to be a collaborative process which will be openly discussed using the github ticketing system. I'm still adjusting the overall structure of this project, but my plan is to have a template repo which can then be forked, and added back into this project using git submodules. 
+**A:** It means I (or anyone who wants to join this project with a history of design work behind them) will make a branding package for the open source project. This is meant to be a collaborative process which will be openly discussed using the github ticketing system. I'm still adjusting the overall structure of this project, but my plan is to have a template repo which can then be forked, and added back into this project using git submodules. 
 
 (the below is a work in progress and will change over time)
 A specific list of artifacts created for a brand identity would be as follows:
