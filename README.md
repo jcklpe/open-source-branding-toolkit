@@ -50,3 +50,10 @@ Other possible things based on the context of the project can be icons, icon fam
 
 * [[Mozilla Rebrand]](https://blog.mozilla.org/opendesign/arrival/)
 * [[Simple]](https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc) [[their github repo]](https://github.com/simpledotorg/simple.org/issues/1)
+
+## Project TODO:
+
+[ ] create branding template toolkit with separate repo, added as a git submodule. 
+[ ] rearrange old projects to live in example directory
+[ ] create resources folder with resource guide and templates or utilities created for this project not included in the default branding package repo
+[ ] create guides folder with design guide information. Focus on immediately applicable best practices like improving markdown files etc. 
