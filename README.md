@@ -53,7 +53,7 @@ Other possible things based on the context of the project can be icons, icon fam
 
 ## Project TODO:
 
-[ ] create branding template toolkit with separate repo, added as a git submodule. 
-[ ] rearrange old projects to live in example directory
-[ ] create resources folder with resource guide and templates or utilities created for this project not included in the default branding package repo
-[ ] create guides folder with design guide information. Focus on immediately applicable best practices like improving markdown files etc. 
+* [ ] create branding template toolkit with separate repo, added as a git submodule. 
+* [ ] rearrange old projects to live in example directory
+* [ ] create resources folder with resource guide and templates or utilities created for this project not included in the default branding package repo
+* [ ] create guides folder with design guide information. Focus on immediately applicable best practices like improving markdown files etc. 
