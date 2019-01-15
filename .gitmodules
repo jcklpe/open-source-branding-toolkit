@@ -1,0 +1,3 @@
+[submodule "BrandingToolkitTemplate"]
+	path = BrandingToolkitTemplate
+	url = https://github.com/jcklpe/BrandingToolkitTemplate.git
