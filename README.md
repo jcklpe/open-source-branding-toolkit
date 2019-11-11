@@ -31,6 +31,8 @@ This is a hybrid repo, work in progress where I plan to keep information and pro
 
 A logo is a specific instantiation of a part of the brand identity. A brand identity is the system of collected artifacts and guidelines that make up a brand, and The Brand as a whole is the conceptual underpinning, the narrative and story meant to be communicated about the project. 
 
+Here's a great article on the subject. [How a Brand is more than a Logo](https://99designs.com/blog/tips/what-is-a-logo/)
+
 ## Q: What can I expect when I make a branding request?
 
 **A:** It means I (or anyone who wants to join this project with a history of design work behind them) will make a branding package for the open source project. This is meant to be a collaborative process which will be openly discussed using the github ticketing system. I'm still adjusting the overall structure of this project, but my plan is to have a template repo which can then be forked, and added back into this project using git submodules. 
@@ -53,8 +55,5 @@ Other possible things based on the context of the project can be icons, icon fam
 
 ## Project TODO:
 
-* [ ] create branding template toolkit with separate repo, added as a git submodule. 
-* [ ] rearrange old projects to live in example directory
-* [ ] add illustrations and visual examples to README guide. 
-* [ ] create resources folder with resource guide and templates or utilities created for this project not included in the default branding package repo
-* [ ] create guides folder with design guide information. Focus on immediately applicable best practices like improving markdown files etc. 
+* [ ] unbrand logos from templates
+* [ ] 
